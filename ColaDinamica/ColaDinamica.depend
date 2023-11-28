@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695700400 source:d:\3sem\seminario estructuras de datos 1\coladinamica\constancia.cpp
+	"constancia.h"
+
+1695700400 d:\3sem\seminario estructuras de datos 1\coladinamica\constancia.h
+	<iostream>
+	<string>
+
+1700552994 source:d:\3sem\seminario estructuras de datos 1\coladinamica\main.cpp
+	"constancia.h"
+
